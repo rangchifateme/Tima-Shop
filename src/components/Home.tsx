@@ -4,7 +4,7 @@ const Home: React.FC = () => {
   return (
     <div>
       <img
-        src="../images/logo.png"
+        src="/logo.png"
         alt="Logo"
         style={{ width: "100px", height: "100px" }}
       />
